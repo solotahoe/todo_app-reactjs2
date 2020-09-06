@@ -6,7 +6,7 @@ export default {
       _id: "1234",
       name: "slim hood",
       category: "hood",
-      image: "public/images/afro.jpg",
+      image: "tree/master/public/images/afro.jpg",
       price: "KES 1800",
       brand: "Nike",
       rating: "4.5",

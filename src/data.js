@@ -6,7 +6,7 @@ export default {
       _id: "1234",
       name: "slim hood",
       category: "hood",
-      image: "https://github.com/solotahoe/todo_app-reactjs2/blob/master/public/images/afro.jpg",
+      image: "/media/afro.jpg",
       price: "KES 1800",
       brand: "Nike",
       rating: "4.5",

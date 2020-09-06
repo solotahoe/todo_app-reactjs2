@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/todo_app-reactjs2/static/css/main.1c1b8031.chunk.css",
-    "main.js": "/todo_app-reactjs2/static/js/main.36698ac9.chunk.js",
-    "main.js.map": "/todo_app-reactjs2/static/js/main.36698ac9.chunk.js.map",
-    "runtime-main.js": "/todo_app-reactjs2/static/js/runtime-main.0f5bc8ab.js",
-    "runtime-main.js.map": "/todo_app-reactjs2/static/js/runtime-main.0f5bc8ab.js.map",
-    "static/js/2.de57cd6a.chunk.js": "/todo_app-reactjs2/static/js/2.de57cd6a.chunk.js",
-    "static/js/2.de57cd6a.chunk.js.map": "/todo_app-reactjs2/static/js/2.de57cd6a.chunk.js.map",
-    "index.html": "/todo_app-reactjs2/index.html",
-    "precache-manifest.25aa05c843cc6127ff5119c4be90071a.js": "/todo_app-reactjs2/precache-manifest.25aa05c843cc6127ff5119c4be90071a.js",
-    "service-worker.js": "/todo_app-reactjs2/service-worker.js",
-    "static/css/main.1c1b8031.chunk.css.map": "/todo_app-reactjs2/static/css/main.1c1b8031.chunk.css.map",
-    "static/js/2.de57cd6a.chunk.js.LICENSE.txt": "/todo_app-reactjs2/static/js/2.de57cd6a.chunk.js.LICENSE.txt",
-    "static/media/afro.jpg": "/todo_app-reactjs2/static/media/afro.0bb247cd.jpg"
+    "main.css": "/static/css/main.1c1b8031.chunk.css",
+    "main.js": "/static/js/main.33c877fb.chunk.js",
+    "main.js.map": "/static/js/main.33c877fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54558e16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54558e16.js.map",
+    "static/js/2.de57cd6a.chunk.js": "/static/js/2.de57cd6a.chunk.js",
+    "static/js/2.de57cd6a.chunk.js.map": "/static/js/2.de57cd6a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0fa5db8d074ddfc10934679642cd7c5b.js": "/precache-manifest.0fa5db8d074ddfc10934679642cd7c5b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1c1b8031.chunk.css.map": "/static/css/main.1c1b8031.chunk.css.map",
+    "static/js/2.de57cd6a.chunk.js.LICENSE.txt": "/static/js/2.de57cd6a.chunk.js.LICENSE.txt",
+    "static/media/afro.jpg": "/static/media/afro.0bb247cd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f5bc8ab.js",
+    "static/js/runtime-main.54558e16.js",
     "static/js/2.de57cd6a.chunk.js",
     "static/css/main.1c1b8031.chunk.css",
-    "static/js/main.36698ac9.chunk.js"
+    "static/js/main.33c877fb.chunk.js"
   ]
 }

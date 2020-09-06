@@ -1,0 +1,57 @@
+.App {
+  background:linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+  }
+
+.try{
+  box-shadow: 0px 5px 2px red;
+  width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+   
+ 
+}
+/* .formControl{
+  height:50px;
+  display: flex;
+  align-items:baseline;
+  width: 100%;
+} */
+.form{
+  padding: 0;
+  margin-top: 0;
+  width: 70%;
+  height: 30px;
+  margin-left: 140px;
+ 
+
+ 
+}
+ /* .btn-large{
+ margin-top: 2px;
+  height: 35px;
+  width: 100px;
+  font-size: 17px;
+  cursor: pointer;
+  color: white;
+  background:linear-gradient(to right, #434343 0%, black 100%);
+} */
+
+.try2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.Sorry{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.large{
+  margin-: 200px !important;
+}

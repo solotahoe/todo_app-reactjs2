@@ -4,10 +4,11 @@ import './App.css'
 import Buttons from './Buttons';
 import Todos from './Todo';
 import { v4 as uuidv4 } from 'uuid';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import About from './About';
 import TodoItems from './TodoItems';
 import Blank from './Blank';
+import Experi from './Experi';
 
 
 class App extends React.Component {
@@ -70,6 +71,7 @@ render() {
       <Router> 
       <div className="App">
         <Header />
+        <Experi />
           
           <Route path="/" exact render={(props) => (
             <React.Fragment>

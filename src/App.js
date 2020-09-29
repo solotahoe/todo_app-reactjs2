@@ -71,7 +71,7 @@ render() {
       <Router> 
       <div className="App">
         <Header />
-        <Experi />
+       
           
           <Route path="/" exact render={(props) => (
             <React.Fragment>
